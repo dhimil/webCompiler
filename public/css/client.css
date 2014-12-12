@@ -1,0 +1,40 @@
+.mainForm {
+	text-align: center;
+}
+
+.formElement {
+	margin: 10px auto;
+}
+
+.hidden {
+  display: none;
+}
+
+#lightbox {
+  position: absolute;
+  width: 95%;
+  height: auto;
+  padding: 15px;
+  background-color: #2B3E50;
+  z-index: 1002;
+  border-radius: 10px 10px 10px 10px;
+  top: 165px;
+  margin: 40px;
+  opacity:1.00;
+}
+
+.border-error {
+  border: 2px solid #D9534F;
+}
+
+.border-success {
+  border: 2px solid #437B56;
+}
+
+.footer {
+  text-align: center;
+}
+
+.blur {
+  opacity:0.5;
+}
